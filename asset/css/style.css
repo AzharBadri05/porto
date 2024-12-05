@@ -1,0 +1,14 @@
+.carousel-item .overlay{
+    position: relative;
+}
+.carousel-item .overlay::before{
+    content: '';
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    width: 100%;
+    height: 100%;
+  }
+
+  
