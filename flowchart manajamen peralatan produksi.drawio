@@ -1,9 +1,156 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="2">
   <diagram name="Halaman-1" id="8cCIzJJ_tQSTL-rUUl2j">
-    <mxGraphModel>
+    <mxGraphModel dx="1587" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s3nDLNMcf4ek1X4M8u6U-2" target="s3nDLNMcf4ek1X4M8u6U-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-2" value="Scan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s3nDLNMcf4ek1X4M8u6U-3" target="s3nDLNMcf4ek1X4M8u6U-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-19" value="Jika hasil scan&amp;nbsp;&lt;div&gt;tidak ditemukan&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s3nDLNMcf4ek1X4M8u6U-3" target="s3nDLNMcf4ek1X4M8u6U-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="334" y="390" />
+              <mxPoint x="334" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-3" value="Hasil Scan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s3nDLNMcf4ek1X4M8u6U-4" target="s3nDLNMcf4ek1X4M8u6U-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-4" value="Tambah Perbaikan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-9" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s3nDLNMcf4ek1X4M8u6U-6" target="s3nDLNMcf4ek1X4M8u6U-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-10" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s3nDLNMcf4ek1X4M8u6U-6" target="s3nDLNMcf4ek1X4M8u6U-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-6" value="Apakah ALat Sudah Diperbaiki ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334.5" y="560" width="159" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s3nDLNMcf4ek1X4M8u6U-7" target="s3nDLNMcf4ek1X4M8u6U-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-7" value="Verfikasi QC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s3nDLNMcf4ek1X4M8u6U-8" target="s3nDLNMcf4ek1X4M8u6U-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-8" value="Alat Siap digunakan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s3nDLNMcf4ek1X4M8u6U-14" target="s3nDLNMcf4ek1X4M8u6U-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-14" value="Maintenance Alat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOvE9tCq8HG_N49MjEhv-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s3nDLNMcf4ek1X4M8u6U-16" target="MOvE9tCq8HG_N49MjEhv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3nDLNMcf4ek1X4M8u6U-16" value="Verifikasi QC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOvE9tCq8HG_N49MjEhv-1" value="Selesai" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="b5EsnCHkpo3RqKZg_ZKN" name="Halaman-2">
+    <mxGraphModel dx="1269" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNn5wZ7J2t6xG0Gz_5JI-1" target="CNn5wZ7J2t6xG0Gz_5JI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNn5wZ7J2t6xG0Gz_5JI-2" target="CNn5wZ7J2t6xG0Gz_5JI-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNn5wZ7J2t6xG0Gz_5JI-2" target="CNn5wZ7J2t6xG0Gz_5JI-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-2" value="Sensor CCTV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-13" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNn5wZ7J2t6xG0Gz_5JI-4" target="CNn5wZ7J2t6xG0Gz_5JI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-4" value="Chek Pelanggaran Produk Jatuh" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNn5wZ7J2t6xG0Gz_5JI-10" target="CNn5wZ7J2t6xG0Gz_5JI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-10" value="Chek Pelanggaran Masker" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNn5wZ7J2t6xG0Gz_5JI-12" target="CNn5wZ7J2t6xG0Gz_5JI-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-12" value="Trigger Alarm Produk" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNn5wZ7J2t6xG0Gz_5JI-14" target="CNn5wZ7J2t6xG0Gz_5JI-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-14" value="Trigger Alarm Masker" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNn5wZ7J2t6xG0Gz_5JI-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-17" value="QC Menerima Notifikasi Alarm Melalui PC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-26" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNn5wZ7J2t6xG0Gz_5JI-24" target="CNn5wZ7J2t6xG0Gz_5JI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-24" value="Konfimasi Alarm/Bunyikan Alarm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNn5wZ7J2t6xG0Gz_5JI-25" value="Selesai" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
